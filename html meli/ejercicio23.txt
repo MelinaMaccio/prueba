@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <meta name="descripcion"content= "Aprender HTML y sus etiquetas">
+
+    <meta name="Author" content=" Melina Maccio ">
+
+    <meta name="Copyright" content="domo educacion">
+    <title>Ejericio 23</title>
+</head>
+<body>
+    
+
+
+</body>
+</html>
